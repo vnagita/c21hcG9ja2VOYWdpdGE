@@ -12,87 +12,87 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nagita =====
-[1]Nagita      |06:31:54 | 28-10-2026| login OK @nagitaverlina | score=0 rank=?
-[1]Nagita      |06:31:54 | 28-10-2026| serverTime=2026-10-28T06:31:53.000Z local=2026-10-28T06:31:54.032Z
+[1]Nagita      |06:41:52 | 29-10-2026| login OK @nagitaverlina | score=0 rank=?
+[1]Nagita      |06:41:52 | 29-10-2026| serverTime=2026-10-29T06:41:52.000Z local=2026-10-29T06:41:52.651Z
 --> [1]Nagita menjalankan: Claim Daily
-[1]Nagita      |06:31:54 | 28-10-2026| daily ERROR: daily http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Nagita      |06:41:52 | 29-10-2026| daily ERROR: daily http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Nagita menjalankan: Auto All Tasks (17 pending)
-[1]Nagita      |06:31:54 | 28-10-2026| [1/17] 87ae8b6e (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115330371981091261
-[1]Nagita      |06:31:54 | 28-10-2026| delay 10s...
-[1]Nagita      |06:32:04 | 28-10-2026| [2/17] 569b202e (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115330130043371741
-[1]Nagita      |06:32:04 | 28-10-2026| delay 10s...
-[1]Nagita      |06:32:15 | 28-10-2026| [3/17] 0c0c4157 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115330383094099086
-[1]Nagita      |06:32:15 | 28-10-2026| delay 10s...
-[1]Nagita      |06:32:26 | 28-10-2026| [4/17] affba66c (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115330351331883306
-[1]Nagita      |06:32:26 | 28-10-2026| delay 10s...
-[1]Nagita      |06:32:36 | 28-10-2026| [5/17] 3a506cad (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115330539939157357
-[1]Nagita      |06:32:36 | 28-10-2026| delay 10s...
-[1]Nagita      |06:32:46 | 28-10-2026| [6/17] 1db0caec (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115330495075228534
-[1]Nagita      |06:32:46 | 28-10-2026| delay 10s...
-[1]Nagita      |06:32:58 | 28-10-2026| [7/17] 494e1b1b (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115330404066212202
-[1]Nagita      |06:32:58 | 28-10-2026| delay 10s...
-[1]Nagita      |06:33:08 | 28-10-2026| [8/17] 9b683957 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115330656098516071
-[1]Nagita      |06:33:08 | 28-10-2026| delay 10s...
-[1]Nagita      |06:33:18 | 28-10-2026| [9/17] 1c315c65 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115330523207798978
-[1]Nagita      |06:33:18 | 28-10-2026| delay 10s...
-[1]Nagita      |06:33:29 | 28-10-2026| [10/17] dac9c018 (link) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:33:29 | 28-10-2026| delay 10s...
-[1]Nagita      |06:33:39 | 28-10-2026| [11/17] 9edbb28a (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115330647789440240
-[1]Nagita      |06:33:39 | 28-10-2026| delay 10s...
-[1]Nagita      |06:33:50 | 28-10-2026| [12/17] ed948baf (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115330748133716594
-[1]Nagita      |06:33:50 | 28-10-2026| delay 10s...
-[1]Nagita      |06:34:00 | 28-10-2026| [13/17] d23e8d85 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115330694807921227
-[1]Nagita      |06:34:00 | 28-10-2026| delay 10s...
-[1]Nagita      |06:34:11 | 28-10-2026| [14/17] 3f7b08ea (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115330889693861754
-[1]Nagita      |06:34:11 | 28-10-2026| delay 10s...
-[1]Nagita      |06:34:21 | 28-10-2026| [15/17] 84429acd (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115331031025679181
-[1]Nagita      |06:34:21 | 28-10-2026| delay 10s...
-[1]Nagita      |06:34:32 | 28-10-2026| [16/17] 6c6d6f6f (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115331078447024524
-[1]Nagita      |06:34:32 | 28-10-2026| delay 10s...
-[1]Nagita      |06:34:42 | 28-10-2026| [17/17] f12f3018 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115331063087481725
-[1]Nagita      |06:34:42 | 28-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nagita      |06:34:42 | 28-10-2026| [1/1] 87ae8b6e (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115331064393310929
+[1]Nagita      |06:41:53 | 29-10-2026| [1/17] 5c713c28 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115695075128956380
+[1]Nagita      |06:41:53 | 29-10-2026| delay 10s...
+[1]Nagita      |06:42:03 | 29-10-2026| [2/17] a4b0b050 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115695043983818925
+[1]Nagita      |06:42:03 | 29-10-2026| delay 10s...
+[1]Nagita      |06:42:14 | 29-10-2026| [3/17] 6fb148bd (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115695246410178536
+[1]Nagita      |06:42:14 | 29-10-2026| delay 10s...
+[1]Nagita      |06:42:24 | 29-10-2026| [4/17] c0149815 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115695461358316363
+[1]Nagita      |06:42:24 | 29-10-2026| delay 10s...
+[1]Nagita      |06:42:36 | 29-10-2026| [5/17] 87ae8b6e (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115695265588126020
+[1]Nagita      |06:42:36 | 29-10-2026| delay 10s...
+[1]Nagita      |06:42:46 | 29-10-2026| [6/17] affba66c (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115695505978753040
+[1]Nagita      |06:42:46 | 29-10-2026| delay 10s...
+[1]Nagita      |06:42:57 | 29-10-2026| [7/17] 3a506cad (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115695561927375772
+[1]Nagita      |06:42:57 | 29-10-2026| delay 10s...
+[1]Nagita      |06:43:08 | 29-10-2026| [8/17] 3a2ebc56 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115695485403789414
+[1]Nagita      |06:43:08 | 29-10-2026| delay 10s...
+[1]Nagita      |06:43:18 | 29-10-2026| [9/17] dac9c018 (link) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:43:18 | 29-10-2026| delay 10s...
+[1]Nagita      |06:43:28 | 29-10-2026| [10/17] 9edbb28a (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115695454496269870
+[1]Nagita      |06:43:28 | 29-10-2026| delay 10s...
+[1]Nagita      |06:43:39 | 29-10-2026| [11/17] 21a80281 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115695535280931957
+[1]Nagita      |06:43:39 | 29-10-2026| delay 10s...
+[1]Nagita      |06:43:49 | 29-10-2026| [12/17] 623aac60 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115695503390143283
+[1]Nagita      |06:43:49 | 29-10-2026| delay 10s...
+[1]Nagita      |06:44:00 | 29-10-2026| [13/17] 8545d68c (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115695622113872739
+[1]Nagita      |06:44:00 | 29-10-2026| delay 10s...
+[1]Nagita      |06:44:10 | 29-10-2026| [14/17] 84429acd (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115695905994858784
+[1]Nagita      |06:44:10 | 29-10-2026| delay 10s...
+[1]Nagita      |06:44:21 | 29-10-2026| [15/17] 6c6d6f6f (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115695785559477548
+[1]Nagita      |06:44:21 | 29-10-2026| delay 10s...
+[1]Nagita      |06:44:31 | 29-10-2026| [16/17] f12f3018 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115695655864961958
+[1]Nagita      |06:44:31 | 29-10-2026| delay 10s...
+[1]Nagita      |06:44:42 | 29-10-2026| [17/17] 125a0329 (link) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:44:42 | 29-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nagita      |06:44:43 | 29-10-2026| [1/1] 5c713c28 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/nagitaverlina/status/2115695844100186588
 --> [1]Nagita menjalankan: Watch Anime
-[1]Nagita      |06:34:43 | 28-10-2026| watch ERROR: watch-progress http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Nagita      |06:44:43 | 29-10-2026| watch ERROR: watch-progress http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Nagita menjalankan: Read Article
-[1]Nagita      |06:34:44 | 28-10-2026| news: null/30 artikel selesai dibaca
-[1]Nagita      |06:34:45 | 28-10-2026| mint eligibility: {"userId":null,"wallet":{"state":"missing","ready":false},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady":true
-[1]Nagita      |06:34:50 | 28-10-2026| news road-to-mint-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:34:58 | 28-10-2026| news community-first-update-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:35:05 | 28-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:35:13 | 28-10-2026| news smart-pocket-800000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:35:21 | 28-10-2026| news 100-friends-connected-by-what-we-love: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:35:28 | 28-10-2026| news 5c5bca9d-4991-4e23-918b-9b13cd2245c8: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:35:36 | 28-10-2026| news oshi-clash-100000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:35:43 | 28-10-2026| news whitepaper-v2-2: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:35:51 | 28-10-2026| news smart-pocket-referral-rewards: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:35:58 | 28-10-2026| news spaceship-and-studio-friends: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:36:05 | 28-10-2026| news swap-arena-stars-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:36:13 | 28-10-2026| news kagura-airdrop-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:36:20 | 28-10-2026| news oshi-clash-complete-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:36:28 | 28-10-2026| news oshi-clash-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:36:35 | 28-10-2026| news smart-pocket-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:36:42 | 28-10-2026| news oshi-labs-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:36:49 | 28-10-2026| news oshi-news-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:36:56 | 28-10-2026| news yuki-character-design: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:37:04 | 28-10-2026| news smart-pocket-mobile-apps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:37:11 | 28-10-2026| news smart-pocket-read-a-card: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:37:18 | 28-10-2026| news start-your-fan-creation: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:37:26 | 28-10-2026| news complete-your-first-task: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:37:33 | 28-10-2026| news understand-the-rankings: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:37:41 | 28-10-2026| news unlock-and-save-icons: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:37:48 | 28-10-2026| news start-here: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:37:55 | 28-10-2026| news what-is-free-mint: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:38:02 | 28-10-2026| news what-is-nft: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:38:10 | 28-10-2026| news prepare-your-wallet: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:38:17 | 28-10-2026| news find-your-anime: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Nagita      |06:38:24 | 28-10-2026| news smart-pocket-first-steps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:44:45 | 29-10-2026| news: null/30 artikel selesai dibaca
+[1]Nagita      |06:44:45 | 29-10-2026| mint eligibility: {"userId":null,"wallet":{"state":"missing","ready":false},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady":true
+[1]Nagita      |06:44:51 | 29-10-2026| news road-to-mint-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:44:59 | 29-10-2026| news community-first-update-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:45:06 | 29-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:45:14 | 29-10-2026| news smart-pocket-800000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:45:21 | 29-10-2026| news 100-friends-connected-by-what-we-love: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:45:28 | 29-10-2026| news 5c5bca9d-4991-4e23-918b-9b13cd2245c8: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:45:36 | 29-10-2026| news oshi-clash-100000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:45:43 | 29-10-2026| news whitepaper-v2-2: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:45:50 | 29-10-2026| news smart-pocket-referral-rewards: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:45:57 | 29-10-2026| news spaceship-and-studio-friends: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:46:04 | 29-10-2026| news swap-arena-stars-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:46:11 | 29-10-2026| news kagura-airdrop-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:46:18 | 29-10-2026| news oshi-clash-complete-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:46:25 | 29-10-2026| news oshi-clash-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:46:33 | 29-10-2026| news smart-pocket-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:46:39 | 29-10-2026| news oshi-labs-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:46:46 | 29-10-2026| news oshi-news-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:46:53 | 29-10-2026| news yuki-character-design: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:47:01 | 29-10-2026| news smart-pocket-mobile-apps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:47:08 | 29-10-2026| news smart-pocket-read-a-card: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:47:16 | 29-10-2026| news start-your-fan-creation: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:47:22 | 29-10-2026| news complete-your-first-task: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:47:31 | 29-10-2026| news understand-the-rankings: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:47:38 | 29-10-2026| news unlock-and-save-icons: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:47:45 | 29-10-2026| news start-here: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:47:52 | 29-10-2026| news what-is-free-mint: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:47:59 | 29-10-2026| news what-is-nft: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:48:07 | 29-10-2026| news prepare-your-wallet: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:48:14 | 29-10-2026| news find-your-anime: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Nagita      |06:48:21 | 29-10-2026| news smart-pocket-first-steps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
 --> [1]Nagita menjalankan: Quiz Anime
 --> [1]Nagita menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nagita      |06:38:28 | 28-10-2026| music ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
-[1]Nagita      |06:38:29 | 28-10-2026| missions ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Nagita      |06:48:25 | 29-10-2026| music ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Nagita      |06:48:25 | 29-10-2026| missions ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Nagita menjalankan: Claim Missions
-[1]Nagita      |06:38:29 | 28-10-2026| missions ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Nagita      |06:48:25 | 29-10-2026| missions ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Nagita menjalankan: Check Eligibility
 
 --- eligibility [1]Nagita ---
@@ -106,39 +106,39 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=false
 
 --> [1]Nagita menjalankan: Read Manga
-[1]Nagita      |06:38:32 | 28-10-2026| manga: 13/13 chapter belum completed
-[1]Nagita      |06:38:32 | 28-10-2026| manga [1/13] membaca ch.1 (19 hal)...
-[1]Nagita      |06:38:32 | 28-10-2026| manga ch1 (1): start GAGAL http=401
-[1]Nagita      |06:38:35 | 28-10-2026| manga [2/13] membaca ch.2 (18 hal)...
-[1]Nagita      |06:38:36 | 28-10-2026| manga ch2 (450001): start GAGAL http=401
-[1]Nagita      |06:38:39 | 28-10-2026| manga [3/13] membaca ch.3 (17 hal)...
-[1]Nagita      |06:38:40 | 28-10-2026| manga ch3 (2160001): start GAGAL http=401
-[1]Nagita      |06:38:43 | 28-10-2026| manga [4/13] membaca ch.4 (17 hal)...
-[1]Nagita      |06:38:43 | 28-10-2026| manga ch4 (2400001): start GAGAL http=401
-[1]Nagita      |06:38:46 | 28-10-2026| manga [5/13] membaca ch.5 (18 hal)...
-[1]Nagita      |06:38:46 | 28-10-2026| manga ch5 (2490001): start GAGAL http=401
-[1]Nagita      |06:38:49 | 28-10-2026| manga [6/13] membaca ch.6 (17 hal)...
-[1]Nagita      |06:38:49 | 28-10-2026| manga ch6 (2610001): start GAGAL http=401
-[1]Nagita      |06:38:52 | 28-10-2026| manga [7/13] membaca ch.1 (21 hal)...
-[1]Nagita      |06:38:53 | 28-10-2026| manga ch1 (180003): start GAGAL http=401
-[1]Nagita      |06:38:56 | 28-10-2026| manga [8/13] membaca ch.2 (18 hal)...
-[1]Nagita      |06:38:56 | 28-10-2026| manga ch2 (990005): start GAGAL http=401
-[1]Nagita      |06:38:59 | 28-10-2026| manga [9/13] membaca ch.3 (20 hal)...
-[1]Nagita      |06:38:59 | 28-10-2026| manga ch3 (1980001): start GAGAL http=401
-[1]Nagita      |06:39:02 | 28-10-2026| manga [10/13] membaca ch.1 (9 hal)...
-[1]Nagita      |06:39:03 | 28-10-2026| manga ch1 (2100001): start GAGAL http=401
-[1]Nagita      |06:39:06 | 28-10-2026| manga [11/13] membaca ch.1 (10 hal)...
-[1]Nagita      |06:39:06 | 28-10-2026| manga ch1 (2070001): start GAGAL http=401
-[1]Nagita      |06:39:09 | 28-10-2026| manga [12/13] membaca ch.2 (11 hal)...
-[1]Nagita      |06:39:09 | 28-10-2026| manga ch2 (2520001): start GAGAL http=401
-[1]Nagita      |06:39:12 | 28-10-2026| manga [13/13] membaca ch.3 (11 hal)...
-[1]Nagita      |06:39:12 | 28-10-2026| manga ch3 (2550001): start GAGAL http=401
+[1]Nagita      |06:48:28 | 29-10-2026| manga: 13/13 chapter belum completed
+[1]Nagita      |06:48:28 | 29-10-2026| manga [1/13] membaca ch.1 (19 hal)...
+[1]Nagita      |06:48:28 | 29-10-2026| manga ch1 (1): start GAGAL http=401
+[1]Nagita      |06:48:31 | 29-10-2026| manga [2/13] membaca ch.2 (18 hal)...
+[1]Nagita      |06:48:32 | 29-10-2026| manga ch2 (450001): start GAGAL http=401
+[1]Nagita      |06:48:35 | 29-10-2026| manga [3/13] membaca ch.3 (17 hal)...
+[1]Nagita      |06:48:35 | 29-10-2026| manga ch3 (2160001): start GAGAL http=401
+[1]Nagita      |06:48:38 | 29-10-2026| manga [4/13] membaca ch.4 (17 hal)...
+[1]Nagita      |06:48:38 | 29-10-2026| manga ch4 (2400001): start GAGAL http=401
+[1]Nagita      |06:48:41 | 29-10-2026| manga [5/13] membaca ch.5 (18 hal)...
+[1]Nagita      |06:48:41 | 29-10-2026| manga ch5 (2490001): start GAGAL http=401
+[1]Nagita      |06:48:44 | 29-10-2026| manga [6/13] membaca ch.6 (17 hal)...
+[1]Nagita      |06:48:45 | 29-10-2026| manga ch6 (2610001): start GAGAL http=401
+[1]Nagita      |06:48:48 | 29-10-2026| manga [7/13] membaca ch.1 (21 hal)...
+[1]Nagita      |06:48:48 | 29-10-2026| manga ch1 (180003): start GAGAL http=401
+[1]Nagita      |06:48:51 | 29-10-2026| manga [8/13] membaca ch.2 (18 hal)...
+[1]Nagita      |06:48:52 | 29-10-2026| manga ch2 (990005): start GAGAL http=401
+[1]Nagita      |06:48:55 | 29-10-2026| manga [9/13] membaca ch.3 (20 hal)...
+[1]Nagita      |06:48:55 | 29-10-2026| manga ch3 (1980001): start GAGAL http=401
+[1]Nagita      |06:48:58 | 29-10-2026| manga [10/13] membaca ch.1 (9 hal)...
+[1]Nagita      |06:48:58 | 29-10-2026| manga ch1 (2100001): start GAGAL http=401
+[1]Nagita      |06:49:01 | 29-10-2026| manga [11/13] membaca ch.1 (10 hal)...
+[1]Nagita      |06:49:01 | 29-10-2026| manga ch1 (2070001): start GAGAL http=401
+[1]Nagita      |06:49:04 | 29-10-2026| manga [12/13] membaca ch.2 (11 hal)...
+[1]Nagita      |06:49:05 | 29-10-2026| manga ch2 (2520001): start GAGAL http=401
+[1]Nagita      |06:49:08 | 29-10-2026| manga [13/13] membaca ch.3 (11 hal)...
+[1]Nagita      |06:49:08 | 29-10-2026| manga ch3 (2550001): start GAGAL http=401
 --> [1]Nagita menjalankan: Get Gift
-[1]Nagita      |06:39:16 | 28-10-2026| gift ERROR: gifts http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Nagita      |06:49:11 | 29-10-2026| gift ERROR: gifts http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Nagita menjalankan: Setup Profile
-[1]Nagita      |06:39:16 | 28-10-2026| profile ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Nagita      |06:49:12 | 29-10-2026| profile ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Nagita menjalankan: Bind Wallet
-[1]Nagita      |06:39:16 | 28-10-2026| wallet ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Nagita      |06:49:12 | 29-10-2026| wallet ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 
 == RINGKASAN ==
 - Nagita: daily=- | tasks OK 0/18 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/0 diterima | profile - | wallet - | mint req=false open=false
